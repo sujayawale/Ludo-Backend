@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: LudoGame
+
+server:
+  port: 9092
