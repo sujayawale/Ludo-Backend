@@ -8,7 +8,6 @@ public class LudoGameApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LudoGameApplication.class, args); 
-		
 	}
 
 }
