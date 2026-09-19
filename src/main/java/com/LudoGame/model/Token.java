@@ -1,7 +1,7 @@
 package com.LudoGame.model;
 
-import java.awt.Color;
 
+import com.LudoGame.enums.Color;
 import com.LudoGame.enums.TokenState;
 
 import lombok.Getter;

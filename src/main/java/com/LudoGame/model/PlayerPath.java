@@ -1,13 +1,9 @@
 package com.LudoGame.model;
 
-import java.lang.ProcessBuilder.Redirect;
 import java.util.ArrayList;
 import java.util.List;
 
 import com.LudoGame.enums.Color;
-
-import lombok.Data;
-import lombok.RequiredArgsConstructor;
 
 public class PlayerPath {
     private final Color color;
