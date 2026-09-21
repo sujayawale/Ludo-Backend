@@ -14,6 +14,7 @@ public class Game {
 	private int currentPlayerIndex;
 	private int diceValue;
 	private Long winnerId;
+	
 	public Game(Long id) {
 		this.id=id;
 		this.board=new Board();
